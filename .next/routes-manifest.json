@@ -1,0 +1,1 @@
+{"version":1,"redirects":[],"rewrites":[],"dynamicRoutes":[{"page":"/post/[id]","regex":"^\\/post\\/([^\\/]+?)(?:\\/)?$"}]}
